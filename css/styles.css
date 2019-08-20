@@ -1,0 +1,146 @@
+.jumbotron{
+    background: url('../img/wiy3.png') no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 575px;
+}
+.jumbotron1{
+    background: url('../img/mobile.jpg') no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 450px;
+}
+.jumbotron2{
+    background: url('../img/web1.png') no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 450px;
+}
+.jumbotron3{
+    background: url('../img/network.jpg') no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 450px;
+}
+.jumbotron4{
+    background: url('../img/ui.png') no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 450px;
+}
+
+
+.card-img-top{
+    padding: 10px;
+}
+
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+}
+
+.card1{
+    margin-bottom: 15px;
+}
+
+.card2{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.btn1{
+    float: right;
+    background-color:#44c767;
+	-moz-border-radius:21px;
+	-webkit-border-radius:21px;
+	border-radius:21px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:3px 29px;
+	text-decoration:none;
+	text-shadow:-1px 1px 23px #2f6627;
+
+}
+.myButton {
+	background-color:#44c767;
+	-moz-border-radius:21px;
+	-webkit-border-radius:21px;
+	border-radius:21px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:3px 29px;
+	text-decoration:none;
+	text-shadow:-1px 1px 23px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.btn{
+    background-color:#0073ff;
+	-moz-border-radius:21px;
+	-webkit-border-radius:21px;
+	border-radius:21px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:3px 29px;
+	text-decoration:none;
+	text-shadow:-1px 1px 23px #2f6627;
+}
+.btn:hover{
+    background-color:#5cbf2a;
+
+}
+
+.btn:active{
+
+    position:relative;
+	top:1px;
+}
+
+.btn3 {
+    border: none;
+    color: white;
+    font-size: 38px;
+    cursor: pointer;
+    float:right;
+    background: no-repeat;
+    padding: 12px;
+}
+
+.btn4 {
+    border: none;
+    color: white;
+    font-size: 38px;
+    cursor: pointer;
+    float:right;
+    background: no-repeat;
+    padding: 12px;
+}
+ .heading-footer 
+    { 
+    background-image: url(../img/parallax.png); 
+    background-size: cover; 
+    height: 100%; 
+    -webkit-box-shadow: none; 
+    box-shadow: none; 
+    border: 0px; 
+    border-radius: 0px; 
+} 
